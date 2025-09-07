@@ -1,6 +1,6 @@
 {
   "name": "byuckchon-frontend-monorepo",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "description": "Byuckchon Frontend Packages Monorepo",
   "scripts": {
