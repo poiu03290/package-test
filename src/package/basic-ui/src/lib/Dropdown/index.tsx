@@ -1,4 +1,4 @@
-import { useDetectClose } from "@byuckchon-frontend-monorepo/hooks";
+import { useDetectClose } from "@byuckchon-frontend-monorepo-test/hooks";
 
 type Props = {
   options: string[];

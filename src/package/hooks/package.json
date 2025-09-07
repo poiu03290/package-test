@@ -1,5 +1,5 @@
 {
-  "name": "@byuckchon-frontend-monorepo/hooks",
+  "name": "@byuckchon-frontend-monorepo-test/hooks",
   "version": "0.0.1",
   "private": false,
   "main": "dist/index.umd.js",

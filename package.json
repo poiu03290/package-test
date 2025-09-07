@@ -1,5 +1,5 @@
 {
-  "name": "@byuckchon-frontend-monorepo/byuckchon-frontend-monorepo",
+  "name": "@byuckchon-frontend-monorepo-test",
   "private": false,
   "version": "1.0.0",
   "description": "Byuckchon Frontend Packages Monorepo",
