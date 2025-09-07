@@ -26,5 +26,19 @@
     "vite-plugin-libcss": "^1.1.2",
     "vite-css-modules": "^1.10.0",
     "typescript": "^5.5.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poiu03290/package-test.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Kwon Hyuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poiu03290/package-test/issues"
+  },
+  "homepage": "https://github.com/poiu03290/package-test#readme",
+  "description": ""
 }
