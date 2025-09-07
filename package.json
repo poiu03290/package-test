@@ -1,0 +1,22 @@
+{
+  "name": "byuckchon-frontend-monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Byuckchon Frontend Packages Monorepo",
+  "scripts": {
+    "build": "pnpm -r run build",
+    "dev": "pnpm --filter example-app dev",
+    "lint": "pnpm -r run lint"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "^5.5.3",
+    "vite": "^5.4.1",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "eslint": "^9.9.0",
+    "@vitejs/plugin-react": "^4.3.1"
+  }
+}
